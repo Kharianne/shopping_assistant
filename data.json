@@ -1,0 +1,23 @@
+{
+  "tesco": {
+    "shipping": 89,
+    "urls": [
+      ["https://nakup.itesco.cz/groceries/cs-CZ/products/2001018498061", 3],
+      ["https://nakup.itesco.cz/groceries/cs-CZ/products/2001013840421", 2]
+    ]
+  },
+  "kosik": {
+    "shipping": 29,
+    "urls": [
+      ["https://www.kosik.cz/produkt/2955-semtex-explosive-energy-drink-500ml", 3],
+      ["https://www.kosik.cz/produkt/2963-big-shock-original-0-5l", 2]
+    ]
+  },
+  "rohlik": {
+    "shipping": 59,
+    "urls": [
+      ["https://www.rohlik.cz/1297121-semtex-explosive-energy-drink", 3],
+      ["https://www.rohlik.cz/1293073-big-shock-energeticky-napoj", 2]
+    ]
+  }
+}

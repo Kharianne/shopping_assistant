@@ -1,0 +1,5 @@
+{
+  "tesco": "(//*[@class='value'])[1]",
+  "rohlik": "//*[@class='product-detail__price']/strong",
+  "kosik": "//*[@class='product-detail-pricing']/strong"
+}
