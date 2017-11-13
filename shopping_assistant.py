@@ -44,8 +44,6 @@ with open('xpath.json') as xpaths_file:
     xpaths = json.load(xpaths_file)
 
 for key in data:
-    if key != "tesco":
-        continue
     thread = Thread(target=get_price_sum, args=(key, data, xpaths))
     thread.start()
 
